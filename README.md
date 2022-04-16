@@ -18,7 +18,7 @@
  </div>
 
 ### My stats 🏆
-<div>
+<div style="background-color: transparent">
   <a href="https://github.com/bomjourno">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bomjourno&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=4AB097&bg_color=transparent" alt="bomjourno's GitHub Stats" />
   </a>
