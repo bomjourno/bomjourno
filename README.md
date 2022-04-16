@@ -13,7 +13,7 @@
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
-  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" />
+  <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" />
   <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" />
  </div>
 
