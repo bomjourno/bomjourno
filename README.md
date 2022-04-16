@@ -6,7 +6,7 @@
 
 ### Stack ⚔
 
-<div style="margin-bot:0.5rem">
+<div>
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS code" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" />
@@ -17,7 +17,9 @@
   <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" />
  </div>
 
+<div>
+  <a href="https://github.com/bomjourno">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bomjourno&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=4AB097&bg_color=transparent" alt="bomjourno's GitHub Stats" />
+  </a>
+</div>
 
-<a href="https://github.com/bomjourno">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bomjourno&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=4AB097&bg_color=transparent" alt="bomjourno's GitHub Stats" />
-</a>
