@@ -6,7 +6,7 @@
 
 ### Stack ⚔
 
-<div>
+<div style="margin:0.5rem">
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS code" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" />
