@@ -14,7 +14,7 @@
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" />
   <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" />
   <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
-  <img width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="Gulp" />
+  <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gulp.js_Logo.svg/100px-Gulp.js_Logo.svg.png" alt="Gulp" />
   <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" />
   <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" />
   
